@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/maikel-mattiu/frontendmentor-blog-preview-card-challenge](https://github.com/maikel-mattiu/frontendmentor-blog-preview-card-challenge)
+- Live Site URL: [https://maikel-mattiu.github.io/frontendmentor-blog-preview-card-challenge/](https://maikel-mattiu.github.io/frontendmentor-blog-preview-card-challenge/)
 
 ## My process
 
